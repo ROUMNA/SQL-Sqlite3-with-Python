@@ -1,7 +1,7 @@
 import pandas as pd
 
-client = pd.read_csv('~/Bureau/project fraude detection/client_train.csv')
-#invoice = pd.read_csv('~/Bureau/project fraude detection/invoice_train.csv')
+client = pd.read_csv('')
+
 
 test = client.head()
 
